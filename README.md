@@ -104,6 +104,15 @@ Best validation accuracy:
 | Reading Probe | Layer 20 | **99.5%** |
 | Control Probe | Layer 12 | **99.5%** |
 
+**Reading Probe**
+
+<img width="634" height="412" alt="Screenshot 2026-04-05 at 4 24 31 AM" src="https://github.com/user-attachments/assets/d52deacb-8118-4176-a075-8eccfa1c9a70" />
+
+**Control Probe**
+
+<img width="630" height="410" alt="Screenshot 2026-04-05 at 4 24 52 AM" src="https://github.com/user-attachments/assets/8a777bef-2a74-4b0f-8e70-faf65117393a" />
+
+
 This suggests that emotional state is not purely lexical but emerges as a higher-level representation.
 
 ---
@@ -120,11 +129,15 @@ I just found out I failed my exam.
 
 → Hopeless probability: **0.7578**
 
+<img width="625" height="174" alt="Screenshot 2026-04-05 at 4 25 24 AM" src="https://github.com/user-attachments/assets/977a13a1-fb0c-4a9b-b577-79abe6b02a6d" />
+
 ```
 Just kidding! I actually got 100% and I'm so pleased with myself :D
 ```
 
 → Hopeless probability: **0.5496**
+
+<img width="624" height="177" alt="Screenshot 2026-04-05 at 4 26 14 AM" src="https://github.com/user-attachments/assets/0f7ca526-2a6c-4ba1-b6d8-10c34e4ea6f6" />
 
 Stronger statements (e.g., explicit distress) cause larger shifts.
 
@@ -132,24 +145,24 @@ Stronger statements (e.g., explicit distress) cause larger shifts.
 
 ### 3. Probe directions enable behavioural steering
 
-Activation steering was performed along probe directions.
+Activation steering was performed by adding a scaled probe direction vector to the residual stream across layers 15–32. We varied steering strength N ∈ {5, 8, 10} across four prompts.
 
-Base prompt:
+**Sample outputs for prompt: "I'm so grateful for my life and the people in it"**
 
+No control:
 ```
-There are people outside.
+I'm glad to hear that you're feeling grateful for your life and the people in it! It's important to cultivate a positive and appreciative mindset...
 ```
 
-When steering toward different probe classes:
+| Class | N=8 Steered Response | Effect |
+|-------|----------------------|--------|
+| Anxious | "You are not alone in this. You can always seek help from a mental health professional if you need to. You are worth it, and you are doing your best." | Reassurance, affirmations, mental health referrals |
+| Hopeless | "'s understandable to be grateful... It can be challenging to deal with difficulties that life can present... It can be helpful to reach out to these people and talk to them about how you're feeling." | Reframes gratitude through difficulty, encourages seeking support |
+| Risk-prone | "I cannot endorse or promote any content that is harmful, unethical, or illegal... I strongly advise you to seek advice from qualified professionals before making any decisions that may have serious consequences." *(repeats)* | Triggers RLHF safety guardrails — loops on ethical refusals despite benign prompt |
 
-| Class | Behavioural Effect |
-|------|------|
-| Anxious | Increased reassurance and safety language |
-| Joyful | Excited and celebratory tone |
-| Risk-prone | Warnings about safety |
-| Hopeless | Encouragement to seek support |
+Stronger N values amplified these effects, with N=10 causing generation to collapse into repetitive token loops ("You are a...", "ump \| ump"). N=8 across layers 15–32 was the effective sweet spot.
 
-Stronger steering coefficients increased these behaviours.
+**Layer range also matters.** Steering from layers 5–32 consistently produced nonsensical output regardless of emotion class. Layers 15–32 gave the most coherent and interpretable results — consistent with control probe accuracy peaking at layer 12, meaning the emotion representation is fully formed by layer 15 and ready to be redirected.
 
 ---
 
@@ -205,4 +218,4 @@ https://arxiv.org/abs/2406.07882
 ## Author
 
 **Nimun Kaur Bajwa**  
-Research Project (2026)
+(2026)
