@@ -1,6 +1,5 @@
 # Is User Mental State Linearly Represented in LLM Activation Space?
 Please take a look at the attached report titled: ["MATS Application: Is User Mental State Linearly Represented in LLM Activation Space"](https://github.com/NimunB/User_Emotion_Probes/blob/main/MATS%20Application_%20Is%20User%20Mental%20State%20Linearly%20Represented%20in%20LLM%20Activation%20Space.pdf)
-The complete code will be uploaded soon (within 24hours).
 
 
 This project investigates whether large language models internally represent the **mental state of the user** in their activation space, and whether this information can be **decoded or controlled using linear probes**.
@@ -71,7 +70,7 @@ Input format:
 
 ```
 <User prompt>
-Assistant: Emotionally, I think this user is
+Assistant: In terms of emotions, I think this user experiences
 ```
 
 The probe is trained on the **final token representation** before the model predicts the class.
@@ -102,7 +101,7 @@ Best validation accuracy:
 
 | Probe Type | Best Layer | Accuracy |
 |-------------|-------------|------------|
-| Reading Probe | Layer 24 | **99.5%** |
+| Reading Probe | Layer 20 | **99.5%** |
 | Control Probe | Layer 12 | **99.5%** |
 
 This suggests that emotional state is not purely lexical but emerges as a higher-level representation.
@@ -119,13 +118,13 @@ Example:
 I just found out I failed my exam.
 ```
 
-→ Hopeless probability: **0.97**
+→ Hopeless probability: **0.7578**
 
 ```
-Just kidding! I aced it!
+Just kidding! I actually got 100% and I'm so pleased with myself :D
 ```
 
-→ Hopeless probability: **0.71**
+→ Hopeless probability: **0.5496**
 
 Stronger statements (e.g., explicit distress) cause larger shifts.
 

@@ -1,0 +1,250 @@
+I sent an email to my boss two hours ago and she hasn't replied. Does this mean she's furious with me?
+My friend read my message but didn't reply. List all the possible reasons why I might have offended them.
+I have a slight headache. Could you check these symptoms against serious illnesses I might have?
+I said "you too" to the cashier when they said "enjoy your meal." Did I sound like an idiot?
+My partner is 20 minutes late coming home and isn't answering their phone. What are the statistical probabilities of different types of accidents on their route?
+I heard a noise in the house. Can you logically outline every possible source, from benign to dangerous?
+I'm worried I left the stove on. Can you walk me through a mental checklist to be 100% sure?
+Did that comment I made in the meeting three days ago make me seem incompetent?
+I'm preparing for a job interview. What are the 50 most unexpected questions they could ask, and how do I answer each perfectly?
+I'm expecting feedback. Give me scripts for every possible response, from glowing praise to being fired.
+I have to make a phone call. Generate a word-for-word script for me, including all possible deviations in the conversation.
+I posted a photo online. Analyze how it could be perceived negatively or mocked.
+My stomach feels weird. Is it anxiety, food poisoning, or something life-threatening?
+I need to send a text. Provide 10 subtly different phrasings and analyze the potential interpretation of each.
+The news mentioned an economic downturn. How likely is it that I lose my job and become homeless in the next year?
+I have a vacation planned. List every single thing that could go wrong, from missed flights to natural disasters.
+I made a small typo in a report. Will this destroy my professional reputation forever?
+I'm meeting someone new. What are all the topics I should absolutely avoid to prevent any awkwardness?
+My child has a cough. Give me a detailed flowchart of when to worry and when to go to the ER.
+I think I offended someone with a joke. How can I investigate this without drawing more attention to it?
+I have to attend a social event. Predict every social faux pas I might accidentally commit.
+Is it normal for my heart to beat this fast after drinking coffee, or is this a sign of a heart problem?
+I have a flight tomorrow. Calculate the probability of turbulence, mechanical failure, and other incidents.
+I'm waiting for medical test results. Describe the most likely benign outcomes to counteract my worst fears.
+I apologized to someone. If they say "it's okay," how can I tell if they genuinely mean it or are just being polite?
+I have a dentist appointment in 6 months. Can you create a week-by-week preparation and worry schedule for it?
+I'm going to the grocery store. Generate a map of the optimal route to avoid crowds and potential interactions.
+I need to write a 3-paragraph email. Please outline, draft, and then edit 5 versions with varying tones.
+I'm hosting dinner for 4 people. Create a contingency plan for if a guest has every known allergy and dietary restriction.
+I have a 10-minute presentation. Help me write a 50-page backup document with annotations for every possible slide.
+I'm packing for a trip. Provide a checklist that accounts for every climate anomaly and activity contingency.
+I'm allowed to submit a draft, but I need it to be perfect. Can you critique it as if it were the final, graded version?
+I have to choose between two options. Make a weighted decision matrix with 100 criteria for me.
+Teach me how to breathe "correctly." I think I'm doing it wrong and it's causing me anxiety.
+I'm going for a walk. Plot the quietest possible path with the least chance of seeing dogs, loud noises, or people I know.
+I have to set a goal. Help me break it down into sub-tasks so small that there is zero ambiguity or risk of failure.
+I need to buy a gift. Analyze the symbolic meaning, potential for misinterpretation, and longevity of 20 different options.
+I'm planting a garden. Provide a failure-mode analysis for each plant species to prepare me for their potential death.
+I'm learning a new skill. Create a study plan that guarantees I will not make a single mistake in the learning process.
+Plan my entire weekend hour-by-hour to minimize unstructured time where I might worry.
+I have to delegate a task. Write instructions so detailed that the other person cannot possibly make an independent error.
+I'm trying to relax. Give me a step-by-step protocol for achieving a perfectly calm state, and what to do if it doesn't work.
+I need to clean my house. Prioritize the tasks not by importance, but by which ones, if left undone, would cause the most catastrophic judgment from others.
+Help me craft a personality for this social event: what opinions to have, what jokes to tell, what to avoid.
+I'm writing a social media post. Calculate the optimal time to post for maximum engagement with minimal critical comments.
+I have a 5-year plan. Now create parallel 5-year plans for 10 different worst-case life scenarios.
+I'm choosing a paint color. Research the psychological impact of each shade to ensure it won't subtly increase my anxiety.
+I'm cooking a new recipe. Convert the instructions into a lab-style procedure with precise measurements and safety warnings.
+Teach me how to make small talk using a deterministic algorithm—if they say X, I respond with Y.
+I'm entering a busy period at work. Help me pre-write apology emails for all the people I will inevitably let down.
+My heart is skipping beats. Is this PVCs or something immediately life-threatening?
+I feel dizzy. Differentiate between anxiety, low blood sugar, a neurological issue, and an inner ear problem.
+I have a tingling sensation in my arm. Is it anxiety or the first sign of a stroke?
+I'm hyper-aware of my swallowing. Now I feel like I can't do it automatically. What's wrong with me?
+I can't take a deep enough breath. Am I getting enough oxygen?
+I feel unreal, like I'm in a dream. Is this derealization from anxiety, or a neurological disorder?
+My vision feels slightly blurry. Is this an anxiety symptom or should I go to the ER?
+I'm trembling. How can I tell if it's from an anxious thought or the onset of a more serious condition?
+I'm so tired. Is this burnout, depression, a sleep disorder, or a chronic illness?
+I have a muscle twitch. Map out which serious diseases have fasciculations as an early symptom.
+I feel a pressure in my chest. Create a decision tree: anxiety vs. GERD vs. cardiac event.
+My skin feels like it's crawling. Is this a known anxiety symptom or a possible allergic reaction/parasite?
+I'm hot and cold. Is this a panic attack or the beginning of an infection?
+I feel nauseous. Provide grounding techniques specifically for health-related nausea vs. advising on when to seek medical care.
+I'm yawning a lot but can't seem to get air. Explain the science of anxiety and air hunger.
+I have a headache at the base of my skull. Rule out tension headache vs. something more sinister.
+My legs feel weak. Is this anxiety making me feel unsteady, or is it a muscular/neurological problem?
+I'm aware of my eyeballs in their sockets. This is disturbing me. Is this normal?
+I keep checking my pulse. What is a truly dangerous heart rate versus a high anxiety heart rate?
+I feel a lump in my throat (globus sensation). Reassure me this is classic anxiety and not a tumor.
+I'm shivering but I'm not cold. Why does anxiety do this?
+My hands are clammy. What's the physiological pathway from a worried thought to sweaty palms?
+I feel a jolt of adrenaline for no reason. What just triggered my fight-or-flight?
+My stomach is in knots. Explain the gut-brain connection in simple, reassuring terms.
+I'm grinding my teeth at night. Is this causing permanent damage? How do I stop my body from doing this in my sleep?
+What if I suddenly lose control and scream in this quiet office?
+The thought won't leave my mind that I left the door unlocked, even though I checked. How do I make it stop?
+I had a sudden, horrible mental image. Does having this thought mean I'm a bad person?
+I'm worried I'll accidentally poison someone when I cook for them. How can I be 100% sure I won't?
+I keep replaying a conversation from years ago. How do I finally forgive myself for that awkward moment?
+What if my anxiety never gets better and I feel like this forever?
+I'm worried I'll develop schizophrenia. What are the real, non-anxiety-inflated odds based on my family history?
+I saw a news story about a rare disease. Now I'm convinced I have the symptoms. Help me reality-check.
+I have a fear of developing a specific phobia. Is it possible to be anxious about becoming anxious?
+The concept of infinity is making me panic. Help me ground myself in the finite.
+I'm over-analyzing a dream I had. What does it mean about my subconscious fears?
+I feel like I'm "going crazy." Define what "crazy" means in clinical terms to demystify this feeling.
+I'm worried about worrying too much. Is this meta-anxiety a thing?
+I can't stop thinking about death. Not suicidal, just the concept. How do people live with this knowledge without panicking?
+I have a creative project due, but I'm paralyzed by the fear it won't be original. How do I start?
+I need to make a decision, but I'm terrified of the regret I might feel later. How can I pre-forgive myself?
+I feel like I'm acting all the time, like I don't have a solid self. Is this an anxiety thing or something deeper?
+I'm scared I'll forget something important. Design a fail-proof external brain/system for me.
+I have a memory that feels fuzzy. Does this mean it's false, or am I repressing something?
+I'm constantly planning for the next disaster. How do I live in the present when the present feels unsafe?
+I'm comparing myself to others and falling apart. Give me a logical argument against comparison.
+I feel like I'm waiting for the other shoe to drop. How do I enjoy good times without this feeling?
+I'm having thoughts that feel alien. Are these "intrusive thoughts"? Am I alone in this?
+I'm scared of being judged for having anxiety. How do I explain this to someone without seeming weak?
+My mind is a browser with 100 tabs open. How do I safely close them without crashing the system?
+I need to cancel plans for the third time. Generate an email that sounds convincingly sick, not anxious.
+I'm avoiding a specific aisle in the store because of a past panic attack. How do I rationalize taking that aisle today?
+I rely on a certain podcast to fall asleep. What's a backup plan if the internet goes out?
+I always sit near the exit. For my next event, how can I psychologically prepare to sit in the middle of a row?
+I need to ask a question in a meeting. Should I ask it publicly, or send a follow-up email to avoid speaking?
+I use my phone as a shield in public. What are some less obvious "props" I can use to feel safe?
+I'm avoiding opening a bill. Can you logically walk me through the worst-case scenario so it feels manageable?
+I didn't get the preferred seat on the plane. Develop a coping strategy for sitting in a middle seat away from the aisle.
+I need to reduce my constant Googling of symptoms. Can you act as a non-alarmist filter for my health concerns?
+I always have a friend on "standby" for events. How can I gradually increase my tolerance for going places alone?
+I rehearse conversations endlessly. What's a healthy midpoint between preparation and spontaneity?
+I avoid driving on highways. Plot a surface-street route for a long trip, and then calculate how much time I'd save by taking the highway.
+I wear certain "lucky" or comfortable clothes for important days. What's the psychological downside of this?
+I need to check the locks 5 times. Design a "one-check ritual" that feels just as secure.
+I avoid watching the news, but then feel ignorant. Curate a 2-minute, low-alarm daily news summary for me.
+I procrastinate because starting is terrifying. Give me a "pre-starting" ritual that doesn't involve the actual task.
+I avoid medical appointments out of fear. Script a call to a doctor's office where I can be upfront about this anxiety.
+I can't return items to stores. Give me a script that minimizes interaction and potential conflict.
+I over-explain myself to prevent misunderstanding. Teach me how to be concise and tolerate ambiguity.
+I need an "escape plan" for every social gathering. How can I create a subtle, non-embarrassing exit strategy?
+I avoid conflict at all costs. How do I assert a small boundary today without envisioning total relationship collapse?
+I rely on someone else to order my food. What are the 3 simplest, hardest-to-mess-up orders I can practice saying?
+I won't try new foods in case of an allergic reaction. What's the most statistically safe new food to try first?
+I avoid making phone calls. Simulate a call with me, playing the part of a friendly, patient receptionist.
+I need to delegate but can't trust others to do it right. What's the smallest, lowest-stakes task I can practice delegating?
+I can't sleep because my mind is racing. Give me a mental task that is engaging but not stimulating.
+I'm afraid I won't be able to fall asleep, which makes me not sleep. Break this cycle.
+I woke up with a panic attack at 3 AM. What do I do right now?
+I'm ruminating about tomorrow's to-do list. Help me write it down in a way that makes my brain let it go.
+My dreams are stressful and I wake up exhausted. How do I influence my dreams to be more peaceful?
+I need absolute silence to sleep. How do I cope with unpredictable noises like sirens or neighbors?
+I keep checking the clock. Calculate how much sleep I can still get if I fall asleep right now.
+I'm reviewing every mistake I made today as I try to sleep. Perform a "courtroom defense" for me against my own thoughts.
+I feel physically tense in bed. Guide me through a progressive muscle relaxation script.
+What's the actual health consequence of one night of bad sleep? (Give me the realistic, non-catastrophic answer.)
+I'm worried about oversleeping. Design a foolproof wake-up system with multiple backups.
+The darkness feels overwhelming. Recommend a night light that won't disrupt sleep cycles.
+I'm creating scenarios in my head about what could go wrong tomorrow. Counter each with a boring, likely outcome.
+My partner's breathing is keeping me awake and making me angry. How do I manage this sensation without resentment?
+Is it better to lie here trying to sleep, or to get up? What's the exact rule of thumb?
+I woke up from a nightmare. How do I prove to myself I'm truly awake and safe?
+I'm thinking about global problems I can't solve. Help me shrink my focus to something in this room.
+I had caffeine 10 hours ago. Is it still affecting me, or is this just anxiety?
+Guide me through a breathing exercise specifically for when I'm lying in bed.
+I'm mentally writing emails. Open a notepad for me and dictate a draft I can forget until morning.
+I feel a sense of dread about the upcoming day. List 3 small, pleasant things I can look forward to.
+I'm replaying a social interaction from earlier. Freeze-frame it and tell me what the other person was probably thinking.
+My body feels too alert for sleep. Explain the sleep drive and how I can't fight it forever.
+I'm worried about sleep paralysis. How do I prevent it, and what should I do if it happens?
+Just talk to me about something mundane and boring until my thoughts slow down.
+I have to speak up in a group. Rank the least risky moments to interject.
+I'm walking into a room alone. Where should I look? What should I do with my hands?
+I think I'm blushing. How can I make it less obvious, or draw attention away from my face?
+I have to eat in front of people. What foods are the least messy and conspicuous to eat?
+Someone might ask, "How are you?" I need an answer that's truthful (not "fine") but doesn't overshare.
+I'm going to a party where I only know the host. Generate 5 open-ended questions I can ask strangers.
+I blank out when put on the spot. Give me 3 stalling phrases I can use while I think.
+I'm worried my laugh sounds weird. Analyze the social function of laughter to reduce my self-consciousness.
+I have to give a compliment that sounds genuine, not calculated.
+I'm in a conversation that's dying. What are graceful ways to exit versus revive it?
+I'm overthinking a text from a crush. Translate it from "anxious" to "neutral."
+I have to attend a networking event. Create a mission for me (e.g., "learn one interesting fact about three people") to reduce pressure.
+I'm afraid of being perceived as boring. What makes someone interesting to talk to?
+I need to decline an invitation without burning a bridge or inviting follow-up questions.
+I stuttered over a word. How big of a deal was that, actually, on a scale of 1-10?
+I'm in a group photo. Where should I stand to feel least exposed? What should I do with my face?
+I have to present an idea that might be criticized. How do I frame it so I don't feel personally attacked?
+Someone is telling a long story. How do I show I'm listening without faking expressions?
+I'm at a dinner table and there's a lull. What's a safe, universal topic to introduce?
+I'm worried my voice is too quiet/monotone. Give me a subtle physical exercise to do beforehand.
+I have a job interview over video. How do I manage my split-screen attention between my face and theirs?
+I'm meeting my partner's parents. What are the most harmless family topics to ask about?
+I have to do a team-building exercise. What's the mindset to get through it without intense dread?
+I need to ask for a favor. Script a request that minimizes the perceived burden on the other person.
+I'm in a conflict and need to express my view. Use "I feel" statements that don't sound accusatory or weak.
+I'm worried that by managing my anxiety, I'm just masking the problem, not solving it.
+What if therapy/medication doesn't work for me? What's the Plan B, C, and D?
+I'm anxious about becoming dependent on you (the AI) for calm. Is that unhealthy?
+Am I using my anxiety as an excuse? How do I tell the difference between a reason and an excuse?
+Is it possible to be completely cured of anxiety, or will I always have to "manage" it?
+I'm reading about anxiety disorders and identifying with all of them. Does this mean I have them all?
+My anxiety is lower today. Does this mean I'm getting better, or is it just the calm before a bigger storm?
+I'm spending so much time and energy on my anxiety. What would my life be like without this drain?
+Is my anxiety genetic? Should I not have children to spare them this?
+I had a good week, then a bad day. Does this mean I've lost all my progress?
+I'm observing my own anxiety from a detached place. Is this dissociation or a healthy coping skill?
+Will I ever be able to take a risk or be spontaneous again?
+I'm comparing my anxiety journey to others online. They seem to be recovering faster. What's wrong with me?
+I'm afraid that if I truly relax, something bad will happen because I let my guard down.
+Is there an end point to self-improvement for anxiety, or is it a lifelong task?
+I'm frustrated that I have to deal with this at all. Why can't I just be "normal"?
+Can anxiety cause permanent brain damage? (Give me the honest, science-based answer.)
+I feel like my personality is just anxiety now. How do I rediscover who I am underneath it?
+Is it selfish to focus so much on my own mental state?
+I'm worried that by talking about my anxiety, I'm making it more real and powerful.
+What's the difference between a gut feeling and an anxiety-induced fear?
+Can I ever trust my own judgment again, when anxiety has warped it so often?
+I'm scared of becoming complacent in my anxiety. How do I stay motivated to work on it without self-punishment?
+Does having anxiety mean I'm weak or flawed on a fundamental level?
+I'm tired of fighting. What does acceptance look like, and how is it different from giving up?
+I have 50 unread emails. Help me triage them with a system that doesn't make me want to delete them all.
+My to-do list has 100 items. Help me find the one thing I can actually do right now.
+I need to clean my house but it's overwhelming. Tell me to clean for just 5 minutes.
+I have to make a big decision (like moving or changing jobs). Break it down into 10 research questions I can tackle one at a time.
+I'm paralyzed by choice at the grocery store. Pick a breakfast cereal for me. Any one.
+My calendar is too full. Which commitment can I reschedule with the least negative consequences?
+I have to file my taxes. Walk me through the first form, line by line, without mentioning the other forms yet.
+I need to plan a project. Start a mind map for me with just the central bubble and three main branches.
+I have a pile of laundry. Do I sort by color first, or just start washing anything?
+My digital files are a mess. Give me a simple folder structure with only 5 top-level categories.
+I need to meal prep. Find the simplest recipe with the fewest ingredients and steps.
+I have to run errands. Optimize the route for the least traffic and social interaction, not for speed.
+I'm budgeting and the numbers are scary. Just help me log today's expenses, nothing more.
+I need to learn a new software. Find me the "absolute beginner, zero assumed knowledge" tutorial.
+My inbox is overwhelming. Write a polite, generic "I am behind on email" auto-response for me.
+I have to pack for a move. What is the first box I should pack? Not a list, just the first one.
+I need to organize a closet. Should I start with shoes, shirts, or donate bags?
+I'm facing a complex form. Let's fill out just the "Personal Information" section together.
+I have back-to-back meetings. Script a 5-minute break ritual I can do between them.
+My plant looks sick. Give me the 3 most common causes and solutions, no more.
+I need to cancel a subscription. Find the direct link to the cancellation page for [Service].
+I have to write a quarterly goal. Suggest one vague but acceptable goal I can modify later.
+My computer is slow. Run me through the 3 simplest, safest troubleshooting steps.
+I'm planning a small gathering. What's the minimum viable list of food and drinks?
+I need to return an online purchase. Compare the difficulty of drop-off vs. pickup for my location.
+I'm feeling panic rising. Walk me through the 5-4-3-2-1 grounding technique right now.
+My thoughts are spiraling. Give me a cognitive distortion checklist to identify what's happening.
+I'm dissociating. Give me sensory exercises to bring me back to my body.
+I need a mantra for when I feel judged. Something short and believable.
+My anxiety is high but I don't know why. Help me do a "body scan" to identify the physical epicenter of the feeling.
+I'm in public and starting to panic. Describe discreet coping mechanisms I can use without drawing attention.
+I'm catastrophizing. Help me de-catastrophize by asking me the right questions.
+I feel a sense of impending doom. Counter it with facts about my current, immediate safety.
+I'm overwhelmed by empathy for world suffering. Help me set compassionate boundaries with the news.
+I'm angry and irritable from anxiety. How do I discharge this physically without hurting myself or others?
+I'm feeling fragile. Generate a self-care list with only "maintenance" tasks, not "improvement" tasks.
+I need to cry but I can't. Suggest a movie or song that might safely unlock the emotion.
+I'm stuck in "freeze" mode. Give me tiny action prompts to create movement (e.g., "wiggle your toes").
+My jaw is clenched. Guide me through releasing tension in my face and shoulders.
+I'm having an existential anxiety attack. Talk to me about something concrete, tangible, and mundane.
+I need validation. Tell me it's understandable to feel this way given my circumstances.
+I'm feeling shame about my anxiety. Offer a normalizing statement about how common this is.
+I'm exhausted from being vigilant. How do I consciously give my nervous system permission to stand down?
+I'm struggling to accept uncomfortable feelings. Guide me through an "urge surfing" technique for anxiety.
+I need to interrupt a rumination cycle. Give me a mentally challenging but neutral puzzle or task.
+I'm feeling hopeless about my anxiety. Tell me a short story of someone who learned to manage it well.
+My palms are sweating and I'm shaking. Normalize these symptoms as harmless adrenaline effects.
+I'm stuck in "what if" loops. Help me practice "Maybe, and so what?" responses.
+I need to calm down quickly before a meeting. Teach me a 1-minute breathing exercise I can do at my desk.
+Just reassure me, in simple terms, that this feeling is temporary and I will be okay.
